@@ -22,7 +22,9 @@ Struktur / Aufbau:
   
   - Module
     - Kategorisierung, Beschreibung etc.
+    - Standardisierung des Modulumfangs (Datum, Kategorisierung, Ersteller etc.)
   
   - App / Verknüpfung
+    - Verbindet die unterschiedlichen Lokalen Gestalter
   
   - Arbeitsdokumentation
